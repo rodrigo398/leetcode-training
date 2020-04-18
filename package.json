@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo398/leetcode-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo398/leetcode-training/issues"
+  },
+  "homepage": "https://github.com/rodrigo398/leetcode-training#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
